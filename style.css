@@ -1,0 +1,18 @@
+body {
+    background-image: url("web-background.jpg");
+    color:white;
+    margin: auto;
+    text-align: center;
+}
+
+.heading{
+    font-family: monospace;
+    background-color: #f5ae58;
+    color: rgb(255, 249, 243);
+
+}
+
+.portfolio-intro{
+    background-color: #f5ae58;
+
+}

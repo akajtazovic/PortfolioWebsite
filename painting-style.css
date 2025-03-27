@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(247, 149, 234);
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.painting-images{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    position: relative;
+    left: 50px;
+}
